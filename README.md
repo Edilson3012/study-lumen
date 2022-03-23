@@ -10,4 +10,4 @@ Um cliente pode ter somente um vendedor.
 
 ## Executar script
 
-Executar o [script](#script_banco.sql)
+Executar o [script](https://github.com/Edilson3012/study-lumen/blob/master/script_banco.sql)
